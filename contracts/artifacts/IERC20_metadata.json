@@ -87,11 +87,11 @@
 	},
 	"sources": {
 		"contracts/crowdFund.sol": {
-			"keccak256": "0x08039796b66eee3ac3d61e35826ad4195a3daf5b7e5bbb913a57157cf6882270",
+			"keccak256": "0x5227ece79f483385fbeb652c7177a9edb1d72977c786a6e0e388b44a430803a0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c38f59f25140cd5d8ef2cf0772e473f083146a18b5fcf2cab2f210f72ab3b62c",
-				"dweb:/ipfs/QmX3im1PPnLtUWoBnPr4VpjxBWzddMgiBCQE6p6Cw1JD7c"
+				"bzz-raw://2b26a038e8aa595a53df5528587e34a07f3d1ca5b77c3b7f92fa923420c791ae",
+				"dweb:/ipfs/QmRfBSMCHHWCQ9Pki4HtDijWhDihawwi9bSQr2e4AzSFra"
 			]
 		}
 	},
